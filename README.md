@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan.
 - 👀 I’m interested in ... Java, JavaScript, TypeScript, CI/CD, Linux scripting, UI frameworks (React, Ang).
-- 🌱 I’m currently learning ... Sparks, Kubernetis
+- 🌱 I’m currently learning ... Sparks, Kubernetes
 - 💞️ I’m looking to collaborate on ... ...
 - 📫 How to reach me ... kundan.bmail1@gmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan.
 - 👀 I’m interested in ... lazy walks on a beach
-- 🌱 I’m currently learning ... why people like golf
+- 🌱 I’m currently learning ... why people like to watch golf
 - 💞️ I’m looking to collaborate on ... beach walks
 - 📫 How to reach me ... kundan.bmail1@gmail.com
 

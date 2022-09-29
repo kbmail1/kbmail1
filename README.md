@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kundan.
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... sparks, python for data
-- 💞️ I’m looking to collaborate on ... ...
+- 👀 I’m interested in ... lazy walks on a beach
+- 🌱 I’m currently learning ... why people like golf
+- 💞️ I’m looking to collaborate on ... beach walks
 - 📫 How to reach me ... kundan.bmail1@gmail.com
 
 <!---

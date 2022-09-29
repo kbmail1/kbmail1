@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan.
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... sparks, pyton for data
+- 🌱 I’m currently learning ... sparks, python for data
 - 💞️ I’m looking to collaborate on ... ...
 - 📫 How to reach me ... kundan.bmail1@gmail.com
 
